@@ -1,7 +1,7 @@
 
 # DIGHUM101-2022: Practicing the Digital Humanities (Practicum)
 
-[Practicing the Digital Humanities, UC Berkeley Summer Session 2023](https://classes.berkeley.edu/content/2023-summer-dighum-101-001-lec-001)
+[Python Programming for Digital Humanities, UC Berkeley Summer Session 2024](https://classes.berkeley.edu/content/2023-summer-dighum-101-001-lec-001)
 
 Instructor: [Prashant Sharma](https://www.linkedin.com/in/prashant3123)
 
