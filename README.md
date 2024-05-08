@@ -7,9 +7,9 @@ Instructor: [Prashant Sharma](https://www.linkedin.com/in/prashant3123)
 
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
-- May 22 2023 - Jun 30 2023
+- May 20 - June 28, 2024
 - M, TU, W, TH
-- 1:00 pm - 2:59 pm
+- 1:00 pm - 3:00 pm
 - Internet/Online
 
 ## Welcome to DIGHUM101!
@@ -17,7 +17,7 @@ Instructor: [Prashant Sharma](https://www.linkedin.com/in/prashant3123)
 ![catreading](Img/cat-reads-reading.gif)
 
 ### Course overview
-The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will use tools and data of ongoing projects associated with the Digital Humanities at Berkeley and beyond to explore the scope of the field, and to gain a foundational knowledge of several digital tools through hands-on work. By the end of this course, students will have a firm grasp of data structures, methods, and libraries in Python, as well as the fundamentals of popular digital humanities methods such as computational text analysis, network analysis, and geospatial analysis.
+The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will use tools and data of ongoing projects associated with the Digital Humanities at Berkeley and beyond to explore the scope of the field, and to gain a foundational knowledge of several digital tools through hands-on work. By the end of this course, students will have a firm grasp of data structures, methods, and libraries in Python, as well as the fundamentals of popular digital humanities methods such as web scraping, computational text analysis, network analysis, geospatial analysis, and machine learning.
 
 ### The structure of this GitHub repository is as follows:
 
